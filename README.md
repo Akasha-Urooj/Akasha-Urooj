@@ -1,81 +1,109 @@
 # 👋 Hi, I'm Akasha Urooj
 
-🎓 **Bachelor of Artificial Intelligence** | University of Central Punjab (UCP), Pakistan
+### 🎓 Artificial Intelligence Student | Machine Learning Enthusiast | Future AI Engineer
 
-💡 I am passionate about Artificial Intelligence, Machine Learning, Data Science, Explainable AI, and Agentic AI. I enjoy building practical AI solutions that solve real-world problems while continuously improving my technical skills through hands-on projects.
-
----
-
-## 🚀 About Me
-
-- 🎓 AI Undergraduate at the University of Central Punjab (UCP)
-- 🤖 Interested in Machine Learning, Explainable AI, LLMs, and Agentic AI
-- 💻 Building end-to-end AI applications with Python
-- 📚 Currently learning RAG, Multi-Agent Systems, and AI Deployment
-- 🌱 Always exploring new technologies and real-world AI use cases
+> **Building Intelligent Solutions for Real-World Problems 🚀**
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
+
+I am an Artificial Intelligence student at the **University of Central Punjab (UCP), Pakistan** with a strong interest in Machine Learning, Explainable AI, Agentic AI, and Large Language Models (LLMs).
+
+I enjoy building real-world AI applications that solve practical problems while continuously learning new technologies.
+
+🏢 **Building the future with Novaryn AI.**
+
+---
+
+# 💻 Tech Stack
 
 - Python
-- Pandas
-- NumPy
+- Machine Learning
 - Scikit-learn
 - XGBoost
+- Pandas
+- NumPy
 - SHAP (Explainable AI)
 - Streamlit
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Project
 
-### Customer Churn Prediction & Explainable Retention Engine
+## Customer Churn Prediction & Explainable Retention Engine
 
-An end-to-end Machine Learning application that predicts customer churn and provides explainable retention recommendations.
+### Features
 
-**Key Features:**
-- Predicts customer churn probability using XGBoost
-- Provides Low, Medium, and High Risk analysis
-- Generates personalized retention recommendations
-- Uses SHAP for Explainable AI
-- Interactive Streamlit web application
-- Live deployment with GitHub integration
+- Predict customer churn using Machine Learning
+- Explain predictions using SHAP (Explainable AI)
+- Risk Classification (Low, Medium & High)
+- Personalized Retention Recommendations
+- Interactive Streamlit Web Application
+- End-to-End ML Pipeline
+
+### Live Demo
+
+https://customer-churn-prediction-542.streamlit.app/
+
+### GitHub Repository
+
+https://github.com/Akasha-Urooj/Customer-Churn-Prediction
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Agentic AI
-- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Multi-Agent AI Systems
-- AI Application Deployment
+- Multi-Agent Systems
+- AI Deployment
+- Advanced Machine Learning
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Build 10+ real-world AI & Machine Learning projects
+- Build 10+ Real-World AI Projects
+- Strengthen my AI Portfolio
 - Contribute to Open Source
-- Strengthen my AI portfolio
-- Secure an AI/ML internship
-- Keep learning and sharing my journey
+- Master Agentic AI
+- Secure an AI/ML Internship
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-🔗 **LinkedIn:**  
+> GitHub Stats and Streak Cards will be added in the next update.
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn**
+
 https://www.linkedin.com/in/akasha-urooj-5343763b2/
 
-💻 **GitHub:**  
+**GitHub**
+
 https://github.com/Akasha-Urooj
 
-📧 **Email:**  
+**Email**
+
 kashay029@gmail.com
+
+**Location**
+
+Pakistan
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!*
+## ⭐ Quote
+
+*"Learning today, building tomorrow with AI."*
+
+---
+
+### Thanks for visiting my profile! 🚀
