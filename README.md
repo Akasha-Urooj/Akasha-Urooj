@@ -1,16 +1,54 @@
-## Hi there 👋
+👋 Hi, I'm Akasha Urooj
 
-<!--
-**Akasha-Urooj/Akasha-Urooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Artificial Intelligence | University of Central Punjab
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, Explainable AI, and Agentic AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building real-world AI applications and continuously improving my skills through practical projects.
+
+============================================================================================================================================================
+
+💻 Tech Stack
+Python
+Machine Learning
+XGBoost
+Scikit-Learn
+Pandas
+NumPy
+SHAP
+Streamlit
+Git
+GitHub
+
+============================================================================================================================================================
+
+📌 Featured Projects
+🔹 Customer Churn Prediction & Explainable Retention Engine
+
+✔ XGBoost
+
+✔ SHAP Explainable AI
+
+✔ Streamlit
+
+✔ Live Deployment
+
+============================================================================================================================================================
+
+🌱 Currently Learning
+Agentic AI
+LLM Applications
+RAG
+Multi-Agent Systems
+
+============================================================================================================================================================
+
+📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/akasha-urooj-5343763b2/
+
+GitHub: https://github.com/Akasha-Urooj
+
+Email: kashay029@gmail.com
+
+Phone: +923274221542
