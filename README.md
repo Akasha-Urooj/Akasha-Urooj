@@ -76,7 +76,25 @@ https://github.com/Akasha-Urooj/Customer-Churn-Prediction
 
 # 📊 GitHub Stats
 
-> GitHub Stats and Streak Cards will be added in the next update.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akasha-Urooj&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akasha-Urooj&layout=compact&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akasha-Urooj&layout=compact&theme=tokyonight&hide_border=false" />
+
+</div>
 
 ---
 
